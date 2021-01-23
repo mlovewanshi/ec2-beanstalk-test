@@ -4,8 +4,7 @@
   "main": "app.js",
   "description": "Test Project for EC2 beanstalk",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mohan Lovewanshi",
   "license": "ISC",
